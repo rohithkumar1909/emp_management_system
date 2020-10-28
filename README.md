@@ -27,5 +27,5 @@ Note :
 Users cannot register unless admin add them in the Default_Db with appropriate Details.
 User can register when the data matches with the data inserted in default_Db collection.
 Admin can add/update or delete employees.
-
+DONOT delete the admin details in Dashboard as the needs to be added in collection manually again.
 
